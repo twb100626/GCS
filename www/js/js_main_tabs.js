@@ -1,7 +1,7 @@
 var page_loaded = [false,false,false];
 $(document).ready(function(){
-  var page_names = ["biblereading"]; 
-  var tab_names = ["Bible Reading"];
+  var page_names = ["biblereading", "embed_fb_post"]; 
+  var tab_names = ["Bible Reading", "Post"];
   
   var stemp = "<div class=\"scrollmenu\" style=\"font-size-adjust: 0.7;\">";
   $.each(page_names, function(index, value) {
