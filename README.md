@@ -1,1 +1,1 @@
-# GCS
+# Sample App for Grace Church Sanxia
